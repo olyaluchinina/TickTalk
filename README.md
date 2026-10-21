@@ -4,7 +4,7 @@
 Руки заняты палочками, поэтому говорите: «плюс два», «восемьдесят шесть»,
 «давай триолями», «стоп». Метроном выполнит команду и подтвердит её коротким сигналом.
 
-**[Скачать TickTalk для Mac](https://github.com/luchininaolya-cyber/TickTalk/releases/latest/download/TickTalk.dmg)**
+**[Скачать TickTalk для Mac](https://github.com/olyaluchinina/TickTalk/releases/latest/download/TickTalk.dmg)**
 
 ## Что нужно
 
